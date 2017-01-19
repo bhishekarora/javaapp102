@@ -1,0 +1,8 @@
+---
+applications:
+- name: JavaHelloWorld101
+  memory: 512M
+  host: JavaHelloWorld101
+  domain: mybluemix.net
+  env:
+    env: dev
